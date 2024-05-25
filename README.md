@@ -30,7 +30,7 @@ I approached this problem using a combination of exploratory data analysis, feat
 
 1. Clone this repository.
 2. Install the dependencies using `pip install -r requirements.txt`.
-3. Download the dataset from [Kaggle](https://www.kaggle.com/c/titanic/data) and place `train.csv` and `test.csv` in the `data/` directory.
+3. Download the dataset from [Kaggle](https://www.kaggle.com/code/sadeqsoltani22/classic-titanic/data) and place `train.csv` and `test.csv` in the `data/` directory.
 4. Run the Jupyter notebook `titanic.ipynb` to see the data analysis and model building process.
 5. Use the trained model to make predictions on the test set.
 
@@ -40,7 +40,7 @@ My final submission achieved an accuracy of X% on the Kaggle leaderboard.
 
 ## Credits
 
-This project was completed by [Sadeq Soltani](https://www.kaggle.com/sadeqsoltani22).
+This project was completed by [Sadeq Soltani](https://www.kaggle.com/code/sadeqsoltani22/classic-titanic).
 
 ## License
 
